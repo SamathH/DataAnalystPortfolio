@@ -1,2 +1,2 @@
-# DataAnalystPortfolio
+# DataAnalystPortfolioProjects
 Portfolio
