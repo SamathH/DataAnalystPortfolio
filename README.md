@@ -1,2 +1,2 @@
-# DataAnalystPortfolioProjects
+# Data Analyst Portfolio Projects
 Following are my projects in SQL, Python, Tableau & Excel:
